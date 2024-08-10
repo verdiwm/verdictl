@@ -4,7 +4,10 @@ version = "0.0.1"
 edition = "2021"
 license = "Apache-2.0"
 authors = ["Federico Maria Morrone <contact@morrone.dev>"]
+description = "Library to interact with verdi ipc"
 readme = "README.md"
+documentation = "https://docs.rs/verdictl"
 repository = "https://github.com/verdiwm/verdictl"
+include = ["src/**/*.rs", "README.md", "LICENSE"]
 
 [dependencies]
