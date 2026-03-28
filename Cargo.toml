@@ -11,3 +11,5 @@ repository = "https://github.com/verdiwm/verdictl"
 include = ["src/**/*.rs", "README.md", "LICENSE"]
 
 [dependencies]
+anyhow = "1.0.102"
+sap = "0.2.0"
