@@ -1,9 +1,9 @@
 [package]
 name = "verdictl"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 license = "Apache-2.0"
-authors = ["Matilde Morrone <contact@morrone.dev>"]
+authors = ["Matilde Morrone <contact@matilde.pet>"]
 description = "Library to interact with verdi ipc"
 readme = "README.md"
 documentation = "https://docs.rs/verdictl"

@@ -1,6 +1,21 @@
 # verdictl
 
-Verdictl provides both a library and binary to interact with the verdi ipc
+CLI to interact with the Verdi compositor.
+
+## Usage
+
+```
+verdictl [OPTIONS] <COMMAND>
+```
+
+**Options**
+
+- `--help` — Print help
+- `--version` — Print version
+
+**Commands**
+
+- `version` — Print the Verdi compositor version
 
 ## License
 
